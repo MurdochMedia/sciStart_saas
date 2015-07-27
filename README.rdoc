@@ -1,8 +1,9 @@
 == README
 
-CoderManual Project Application
+Project Application
 Subscription based web app.
-http://codermanual.com
+https://codermanual.com
+
 
 Things you may want to cover:
 
