@@ -21,8 +21,6 @@ gem 'sass-rails', '4.0.3'
 #Use bootstrap for styles
 gem 'bootstrap-sass', '3.3.1'
 
-#Use font-awesome for icons
-gem 'font-awesome-sass', '4.2.0'
 
 # Use devise for user auth
 gem 'devise', '3.4.1'
