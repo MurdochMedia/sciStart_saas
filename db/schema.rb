@@ -58,10 +58,6 @@ ActiveRecord::Schema.define(version: 20150820191127) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "username"
-    t.string   "first_name"
-    t.string   "last_name"
-    t.string   "companyname"
-    t.string   "about"
     t.integer  "plan_id"
     t.string   "stripe_customer_token"
   end
