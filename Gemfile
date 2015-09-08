@@ -32,7 +32,7 @@ gem 'stripe', '1.16.1'
 gem 'figaro', '1.0'
 
 #User paperclip for images
-gem 'paperclip', '4.2.1'
+gem 'paperclip', '4.3.0'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '1.3.0'
